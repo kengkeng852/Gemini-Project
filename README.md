@@ -7,7 +7,7 @@ A website for the observatory system to allow scientists and researchers to crea
     - Run Demo_Application.main() in com/example/demo/DemoApplication.java
     - Open web browser: http://localhost:8080/
 
-#Selected use case
+# Selected use case
     - Login
     - Create a science plan
     - Test a science plan
