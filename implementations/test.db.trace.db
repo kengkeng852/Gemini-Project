@@ -1,0 +1,24 @@
+2024-04-29 15:18:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-192]
+2024-04-29 15:45:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-192]
+2024-04-29 15:45:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-192]
+2024-04-29 21:01:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-192]
+2024-04-29 21:01:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-192]
+2024-04-29 21:16:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-192]
+2024-04-29 21:16:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-192]
+2024-04-29 21:18:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-192]
+2024-04-29 21:18:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-192]
+2024-04-30 14:20:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-192]
+2024-04-30 14:22:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-192]
+2024-04-30 14:22:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-192]

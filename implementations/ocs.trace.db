@@ -1,0 +1,15 @@
+2024-04-29 15:45:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MASASTRONOMICALDATA" not found; SQL statement:
+INSERT INTO masAstronomicalData VALUES(3,1,'http://www.gemini.edu/images/pio/News/2020/pr2020_03/minimoon-TARcropcln-CC.jpg'); [42102-192]
+2024-04-29 21:01:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MASASTRONOMICALDATA" not found; SQL statement:
+INSERT INTO masAstronomicalData VALUES(4,1,'https://www.gemini.edu/files/styles/large/public/gallery/20680/20110407m8lagoonrim2.png'); [42102-192]
+2024-04-29 21:16:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MASASTRONOMICALDATA" not found; SQL statement:
+INSERT INTO masAstronomicalData VALUES(5,1,'https://www.gemini.edu/files/styles/large/public/gallery/20497/ngc1532_31_fr.jpg'); [42102-192]
+2024-04-29 21:18:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MASASTRONOMICALDATA" not found; SQL statement:
+INSERT INTO masAstronomicalData VALUES(6,1,'http://www.gemini.edu/images/pio/News/2020/pr2020_03/minimoon-TARcropcln-CC.jpg'); [42102-192]
+2024-04-30 14:22:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MASASTRONOMICALDATA" not found; SQL statement:
+INSERT INTO masAstronomicalData VALUES(7,1,'https://www.gemini.edu/files/styles/large/public/gallery/20989/ngc660smashinghandout.jpg'); [42102-192]
