@@ -1,7 +1,6 @@
 # Gemini-Project
 This is a demo project of Spring boot using OCS.
-
-A website for the observatory system to allow scientists and researchers to create a science plan, test a science plan, and Submit a science plan 
+A website for the observatory system to allow scientists and researchers to create a science plan, test a science plan, and Submit a science plan by using java Spring boot.
 
 # Instruction
 - Clone this Github Repository
